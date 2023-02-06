@@ -1,1 +1,1 @@
-This is my first depot.
+This is my first repo.
